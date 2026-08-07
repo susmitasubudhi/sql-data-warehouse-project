@@ -20,9 +20,9 @@ Develop a modern data warehouse using SQL to consolidate sales data, enabling an
   #### Objective:
   Developed SQL - based analytics to deliver detailed insights into:
   
-   -**Customer Behavior**
-   -**Product Performance**
-   -**Sales Trend**
+   - **Customer Behavior**
+   - **Product Performance**
+   - **Sales Trend**
   These insights empower stakeholders with key business metrics, enabling strategic decision making.
   
   ---
