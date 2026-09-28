@@ -1,3 +1,3 @@
 --  Create the 'Datawarehouse' Database
-CREATE DATABASE Datawarehouse;
+CREATE DATABASE IF NOT EXISTS Datawarehouse;
 USE Datawarehouse;
