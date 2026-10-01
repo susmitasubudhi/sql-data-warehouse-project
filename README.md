@@ -3,7 +3,7 @@ Welcome to the **Data Warehouse and Analytics Project** repository!.
 
 ---
 ## Project Requirement
-### Building the data Warehouse(Data Engineering)
+### Building the data Warehouse
 ### Objective
 Develop a modern data warehouse using SQL to consolidate sales data, enabling analytical reporting and informed decision-making.
 ### Data Architecture
