@@ -6,6 +6,11 @@ Welcome to the ** Data Warehouse and Analytics Project** repository!.
 ### Building the data Warehouse(Data Engineering)
 ### Objective
 Develop a modern data warehouse using SQL to consolidate sales data, enabling analytical reporting and informed decision-making.
+### Data Architecture
+The data architecture for this project follows Medallion Architecture Bronze, Silver, Gold Layers:
+<img width="1012" height="668" alt="Screenshot 2026-10-01 231059" src="https://github.com/user-attachments/assets/7b847977-cdf5-4218-9cf2-245620ff5908" />
+
+
 
 ### Specification
 - **Data Sources**: Import Data From two source systems(ERP and CRM) provided as CSV files.
