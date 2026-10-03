@@ -32,11 +32,11 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
 
 
 ## Key Metrics:
- **Total Sales** : 29M
- **Total Quantity**: 60K
- **Total Orders**: 28K
- **Total Customers**: 18K
- **Total Products**: 295
- **Avg Sale Price** :486.04
+- **Total Sales** : 29M
+- **Total Quantity**: 60K
+- **Total Orders**: 28K
+- **Total Customers**: 18K
+- **Total Products**: 295
+- **Avg Sale Price** :486.04
   
   ---
