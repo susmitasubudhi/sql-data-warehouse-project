@@ -29,5 +29,14 @@ The data architecture for this project follows Medallion Architecture Bronze, Si
    - **Product Performance**
    - **Sales Trend**
   These insights empower stakeholders with key business metrics, enabling strategic decision making.
+
+
+## Key Metrics:
+ **Total Sales** : 29M
+ **Total Quantity**: 60K
+ **Total Orders**: 28K
+ **Total Customers**: 18K
+ **Total Products**: 295
+ **Avg Sale Price** :486.04
   
   ---
